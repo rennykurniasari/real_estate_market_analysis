@@ -102,4 +102,73 @@ source              |object| source of the customer's information or engagement
 ---
 
 ## Result Interpretation
+After meticulous preprocessing, analysis, and visualization, it is crucial to discuss the relevance of this analysis and problem setting and for whom it is valuable.
 
+### Customer Profile
+Understanding customer profiles allows real estate owners and developers to identify potential buyers. However, there is a challenge: demand often surpasses affordable housing availability in many US and European cities. While targeting the ideal customer profile is difficult in such markets, exclusive developments offering luxury apartments present opportunities. Real estate companies can use such profiles to target potential customers through platforms like Facebook, YouTube, and others.
+
+In terms of age, most customers purchase homes between 31 and 42, with the 36 to 42 bracket being the most prominent, closely followed by the 31 to 26 bracket. This aligns with the logic that customers within these age brackets are more likely to be financially stable for property purchases.
+
+|Age Interval                       |Sold     |
+|:------------------------------|:---------|
+19 - 25          |4 units|
+25 - 31          |16 units|
+31 - 36         |26 units|
+36 - 42          |33 units|
+42 - 48          |22 units|
+48 - 54          |22 units|
+54 - 59          |22 units|
+59 - 65          |11 units|
+65 - 71          |16 units|
+71 - 76          |6 units|
+
+While the statistical sample is limited, a broader dataset can help create a more conclusive ideal buyer profile. With sufficient information, real estate firms can target specific clusters through ads on YouTube, Google, Facebook, or similar platforms.
+
+### Building Characteristics
+The analysis delves into building characteristics, detailing information such as areas with the most properties sold, property prices, and the time period of sales. This data, readily available and easily accessible, allows for a comprehensive overview of the market and its trends.
+
+*   **Breakdown by Building**
+<br>Based on the data, types 2 and 3 are the most sold buildings.
+
+|Building                       |Sold     |Mortage  |
+|:------------------------------|:---------|
+1          |46 units|14.0|
+2          |54 units|18.0|
+3          |53 units|15.0|
+4          |23 units|9.0|
+5          |19 units|6.0|
+
+However, a closer look at average prices and deal satisfaction reveals a different story.
+
+|Building                       |Area     |Price  |Deal Satisfaction  |
+|:------------------------------|:---------|
+1          |928.04|27,5143.25 USD|3.63|
+2          |943.89|28,6661.85 USD|3.52|
+3          |927.85|28,0451.26 USD|3.57|
+4          |974.72|29,0239.51 USD|3.87|
+5          |914.30|27,4557.60 USD|3.53|
+
+Type 4 has the highest average property sale prices at $290,000, closely followed by types 2 and 3. Type 4 also boasts the highest average deal satisfaction, close to 3.9, and is the largest in terms of area. Buildings in type 4 likely feature more luxurious or spacious apartments, although they sell less often due to their higher price per square meter. Real estate developers can leverage this information to devise strategies, focusing on standard building types or investing in more luxurious apartments for higher deal satisfaction.
+
+*   **Sales by Country**
+<br>Geographical data shows that 90% of sales come from the United States, indicating a significant market presence in the country.
+
+|Country                       |Sold     |Mortage  |
+|:------------------------------|:---------|
+Belgium          |2 units|0.0|
+Canada          |7 units|0.0|
+Denmark          |1 units|0.0|
+Germany          |1 units|0.0|
+Mexico          |1 units|0.0|
+Russia          |4 units|1.0|
+UK          |2 units|0.0|
+USA          |177 units|61.0|
+
+*   **Total Number of Sales per Year by Building**
+<br>Analyzing the total number of sales per year by building, a stacked area chart reveals that 2007 is the most popular year for sales.
+
+![Stacked Bar 1](total_sales_per_year_per_building.png)
+
+This aligns with historical events, occurring just before the market crash in the United States. Notably, there are no sales in 2009. This information is crucial for consideration in future analyses and strategies.
+
+![Stacked Bar 2](total_sales_per_year_per_building_with_2009.png)
