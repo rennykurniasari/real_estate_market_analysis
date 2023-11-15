@@ -138,31 +138,31 @@ The analysis delves into building characteristics, detailing information such as
     | 4        | 23 units| 9.0      |
     | 5        | 19 units| 6.0      |
 
-However, a closer look at average prices and deal satisfaction reveals a different story.
+    However, a closer look at average prices and deal satisfaction reveals a different story.
 
-    |Building                       |Area     |Price  |Deal Satisfaction  |
-    |:------------------------------|:---------|
-    |1          |928.04|27,5143.25 USD|3.63|
-    |2          |943.89|28,6661.85 USD|3.52|
-    |3          |927.85|28,0451.26 USD|3.57|
-    |4          |974.72|29,0239.51 USD|3.87|
-    |5          |914.30|27,4557.60 USD|3.53|
+    | Building | Area   | Price            | Deal Satisfaction |
+    |:---------|:-------|:-----------------|:-------------------|
+    | 1        | 928.04 | 27,5143.25 USD   | 3.63              |
+    | 2        | 943.89 | 28,6661.85 USD   | 3.52              |
+    | 3        | 927.85 | 28,0451.26 USD   | 3.57              |
+    | 4        | 974.72 | 29,0239.51 USD   | 3.87              |
+    | 5        | 914.30 | 27,4557.60 USD   | 3.53              |
 
 Type 4 has the highest average property sale prices at $290,000, closely followed by types 2 and 3. Type 4 also boasts the highest average deal satisfaction, close to 3.9, and is the largest in terms of area. Buildings in type 4 likely feature more luxurious or spacious apartments, although they sell less often due to their higher price per square meter. Real estate developers can leverage this information to devise strategies, focusing on standard building types or investing in more luxurious apartments for higher deal satisfaction.
 
 *   **Sales by Country**
 <br>Geographical data shows that 90% of sales come from the United States, indicating a significant market presence in the country.
 
-    |Country                       |Sold     |Mortage  |
-    |:------------------------------|:---------|
-    |Belgium          |2 units|0.0|
-    |Canada          |7 units|0.0|
-    |Denmark          |1 units|0.0|
-    |Germany          |1 units|0.0|
-    |Mexico          |1 units|0.0|
-    |Russia          |4 units|1.0|
-    |UK          |2 units|0.0|
-    |USA          |177 units|61.0|
+    | Country | Sold    | Mortgage |
+    |:--------|:--------|:---------|
+    | Belgium | 2 units | 0.0      |
+    | Canada  | 7 units | 0.0      |
+    | Denmark | 1 unit  | 0.0      |
+    | Germany | 1 unit  | 0.0      |
+    | Mexico  | 1 unit  | 0.0      |
+    | Russia  | 4 units | 1.0      |
+    | UK      | 2 units | 0.0      |
+    | USA     | 177 units| 61.0     |
 
 *   **Total Number of Sales per Year by Building**
 <br>Analyzing the total number of sales per year by building, a stacked area chart reveals that 2007 is the most popular year for sales.
