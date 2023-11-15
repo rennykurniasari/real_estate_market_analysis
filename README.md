@@ -7,7 +7,7 @@ The real estate market is a multifaceted and dynamic sector of significant inter
 1.   **Customer Profile**
 <br>Develop an ideal customer profile, considering age and other characteristics, to facilitate targeted marketing efforts.
 
-2.  **Building Characteristics:**
+2.  **Building Characteristics**
 <br>Analyze building types and their characteristics to inform strategic decisions for real estate developers.
 
 3.   **Sales by Country**
