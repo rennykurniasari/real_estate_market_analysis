@@ -148,7 +148,7 @@ The analysis delves into building characteristics, detailing information such as
     | 4        | 974.72 | 29,0239.51 USD   | 3.87              |
     | 5        | 914.30 | 27,4557.60 USD   | 3.53              |
 
-   <br>Type 4 has the highest average property sale prices at $290,000, closely followed by types 2 and 3. Type 4 also boasts the highest average deal satisfaction, close to 3.9, and is the largest in terms of area. Buildings in type 4 likely feature more luxurious or spacious apartments, although they sell less often due to their higher price per square meter. Real estate developers can leverage this information to devise strategies, focusing on standard building types or investing in more luxurious apartments for higher deal satisfaction.
+    Type 4 has the highest average property sale prices at $290,000, closely followed by types 2 and 3. Type 4 also boasts the highest average deal satisfaction, close to 3.9, and is the largest in terms of area. Buildings in type 4 likely feature more luxurious or spacious apartments, although they sell less often due to their higher price per square meter. Real estate developers can leverage this information to devise strategies, focusing on standard building types or investing in more luxurious apartments for higher deal satisfaction.
 
 *   **Sales by Country**
 <br>Geographical data shows that 90% of sales come from the United States, indicating a significant market presence in the country.
