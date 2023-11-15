@@ -42,23 +42,29 @@ The project involves preprocessing, analyzing, and visualizing real estate prope
 
 ## Key Components
 1.   **Data Cleaning and Preprocessing**
-<br>Ensure data quality and relevance for subsequent analysis through meticulous cleaning and preprocessing.
+<br>The project starts with thorough data cleaning and preprocessing to ensure the quality and relevance of the customer data for subsequent analysis. This includes handling missing values, standardizing formats, and addressing any outliers.
 
 2.   **Statistics**
-    *   **Breakdowns by Building:** Explore building-related statistics to understand their characteristics and market trends.
-    *   **Breakdowns by Country and State:** Analyze sales distribution across countries and states to identify key markets.
+<br>Statistics plays a crucial role in uncovering patterns and relationships within the dataset. In this phase, we perform statistical analyses, including breakdowns by building and country, to gain insights into key trends and variations.
+
+        *   **Breakdowns by Building:** Explore building-related statistics to understand their characteristics and market trends.
+        *   **Breakdowns by Country and State:** Analyze sales distribution across countries and states to identify key markets.
 
 3.   **Data Analysis**
-    *   **Customers Age:** Analyze the age distribution of customers to understand demographic trends.
-    *   **Analysis of the Price of Properties:** Explore property prices and identify patterns or anomalies.
-    *   **Relationship Between Age and Price:** Examine the correlation between customer age and property prices.
+<br>This step involves a deeper dive into specific aspects of the data to extract meaningful insights.
+
+        *   **Customers Age:** Analyze the age distribution of customers to understand demographic trends.
+        *   **Analysis of the Price of Properties:** Explore property prices and identify patterns or anomalies.
+        *   **Relationship Between Age and Price:** Examine the correlation between customer age and property prices.
 
 4.   **Data Visualization**
-    *   **Deal Satisfaction Across Countries:** Visualize deal satisfaction levels across different countries.
-    *   **Customer Age Distribution:** Present a graphical representation of the age distribution of customers.
-    *   **Segmentation by State:** Explore customer segmentation based on states.
-    *   **Total Sales per Year:** Visualize the total number of sales per year to identify trends.
-    *   **Yearly Sales Distribution Across Buildings:** Examine the distribution of sales across different building types each year.
+<br>Visualizations are powerful tools to communicate complex information effectively. This phase focuses on creating visual representations of the data for easier interpretation.
+
+        *   **Deal Satisfaction Across Countries:** Visualize deal satisfaction levels across different countries.
+        *   **Customer Age Distribution:** Present a graphical representation of the age distribution of customers.
+        *   **Segmentation by State:** Explore customer segmentation based on states.
+        *   **Total Sales per Year:** Visualize the total number of sales per year to identify trends.
+        *   **Yearly Sales Distribution Across Buildings:** Examine the distribution of sales across different building types each year.
 
 ## Data Dictionary
 > **Properties**
