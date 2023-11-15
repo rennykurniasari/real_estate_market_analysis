@@ -167,8 +167,8 @@ Type 4 has the highest average property sale prices at $290,000, closely followe
 *   **Total Number of Sales per Year by Building**
 <br>Analyzing the total number of sales per year by building, a stacked area chart reveals that 2007 is the most popular year for sales.
 
-![Stacked Bar 1](images/total_sales_per_year_per_building.png)
+   ![Stacked Bar 1](images/total_sales_per_year_per_building.png)
 
-This aligns with historical events, occurring just before the market crash in the United States. Notably, there are no sales in 2009. This information is crucial for consideration in future analyses and strategies.
+   This aligns with historical events, occurring just before the market crash in the United States. Notably, there are no sales in 2009. This information is crucial for consideration in future analyses and strategies.
 
-![Stacked Bar 2](images/total_sales_per_year_per_building_with_2009.png)
+   ![Stacked Bar 2](images/total_sales_per_year_per_building_with_2009.png)
