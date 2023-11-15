@@ -129,7 +129,7 @@ The analysis delves into building characteristics, detailing information such as
 
 *   **Breakdown by Building**
 <br>Based on the data, types 2 and 3 are the most sold buildings.
-
+<br>
 |Building                       |Sold     |Mortage  |
 |:------------------------------|:---------|
 1          |46 units|14.0|
@@ -139,7 +139,7 @@ The analysis delves into building characteristics, detailing information such as
 5          |19 units|6.0|
 
 However, a closer look at average prices and deal satisfaction reveals a different story.
-
+<br>
 |Building                       |Area     |Price  |Deal Satisfaction  |
 |:------------------------------|:---------|
 1          |928.04|27,5143.25 USD|3.63|
@@ -152,7 +152,7 @@ Type 4 has the highest average property sale prices at $290,000, closely followe
 
 *   **Sales by Country**
 <br>Geographical data shows that 90% of sales come from the United States, indicating a significant market presence in the country.
-
+<br>
 |Country                       |Sold     |Mortage  |
 |:------------------------------|:---------|
 Belgium          |2 units|0.0|
@@ -167,8 +167,8 @@ USA          |177 units|61.0|
 *   **Total Number of Sales per Year by Building**
 <br>Analyzing the total number of sales per year by building, a stacked area chart reveals that 2007 is the most popular year for sales.
 
-![Stacked Bar 1](total_sales_per_year_per_building.png)
+![Stacked Bar 1](images/total_sales_per_year_per_building.png)
 
 This aligns with historical events, occurring just before the market crash in the United States. Notably, there are no sales in 2009. This information is crucial for consideration in future analyses and strategies.
 
-![Stacked Bar 2](total_sales_per_year_per_building_with_2009.png)
+![Stacked Bar 2](images/total_sales_per_year_per_building_with_2009.png)
