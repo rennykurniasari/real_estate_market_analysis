@@ -173,3 +173,8 @@ The analysis delves into building characteristics, detailing information such as
     This aligns with historical events, occurring just before the market crash in the United States. Notably, there are no sales in 2009. This information is crucial for consideration in future analyses and strategies.
 
     ![Stacked Bar 2](images/total_sales_per_year_per_building_with_2009.png)
+
+---
+
+## How to Contribute
+Feel free to contribute to the project by providing additional insights, expanding analyses, or improving code efficiency. Fork the repository, make your changes, and submit a pull request. Your contributions are highly valued!
